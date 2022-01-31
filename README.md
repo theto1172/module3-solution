@@ -1,2 +1,2 @@
 # module3-solution
-restaurant site
+restaurant site for coursera
